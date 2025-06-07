@@ -13,3 +13,7 @@ jobs:
         with:
           username: ${{ vars.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
+      - name: build and push
+        run: |
+         docker build -t felipelaureano/java-ping .
+         docker push felipelaureano/java-ping
