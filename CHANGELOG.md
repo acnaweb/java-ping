@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/acnaweb/java-ping/compare/v1.2.0...v1.3.0) (2025-06-14)
+
+
+### Features
+
+* ajustar mensagem nova ([6807431](https://github.com/acnaweb/java-ping/commit/680743137c26149f8c56db72db186f5622368fdc))
+
 ## [1.2.0](https://github.com/acnaweb/java-ping/compare/v1.1.0...v1.2.0) (2025-06-14)
 
 
