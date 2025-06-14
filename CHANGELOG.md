@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0](https://github.com/acnaweb/java-ping/compare/v1.3.0...v1.4.0) (2025-06-14)
+
+
+### Features
+
+* update cd ([2ffb1f3](https://github.com/acnaweb/java-ping/commit/2ffb1f3f21291c21a06bcfe7f16146638cc3d29e))
+* update ci ([d91026b](https://github.com/acnaweb/java-ping/commit/d91026b37824ea67d4f8d8a9f6ce10a6e0c2d055))
+
 ## [1.3.0](https://github.com/acnaweb/java-ping/compare/v1.2.0...v1.3.0) (2025-06-14)
 
 
