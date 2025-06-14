@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.2.0](https://github.com/acnaweb/java-ping/compare/v1.1.0...v1.2.0) (2025-06-14)
+
+
+### Features
+
+* add gitignore ([bf04f57](https://github.com/acnaweb/java-ping/commit/bf04f579c31919b0fe3110d90a892445ab69f7c4))
+* ajustar mensagem padrão ([258cf9d](https://github.com/acnaweb/java-ping/commit/258cf9da6244f786ea0de640a0394fdbcf6699f4))
+* release please ([f65c616](https://github.com/acnaweb/java-ping/commit/f65c616ded7a36aea12ccd8e6625505ebbf85268))
+* remove endpoint ([2ae2920](https://github.com/acnaweb/java-ping/commit/2ae2920cae22a4759944ce0dcde0688b8bf80365))
+* setup cd ([e49cb35](https://github.com/acnaweb/java-ping/commit/e49cb353723e7bebb227c04f0c0051311531101d))
+* setup cd ([d9a8426](https://github.com/acnaweb/java-ping/commit/d9a8426d5121978dc74533c12186cab3db83a22f))
+* setup cd ([fa8e100](https://github.com/acnaweb/java-ping/commit/fa8e1001609b32aac3bc289fd5d21a541fbc954f))
+* setup cd ([1a3a9db](https://github.com/acnaweb/java-ping/commit/1a3a9dbd4947d512777bc5cb266b67f5a3c84e96))
+* setup dockerfile ([be8364b](https://github.com/acnaweb/java-ping/commit/be8364b8ff65d839734e5a055289bf83ddc618ee))
+* setup makefile ([5f6f1f6](https://github.com/acnaweb/java-ping/commit/5f6f1f69e6834bb46e9c1ea2343215417cf84094))
+
 ## [1.1.0](https://github.com/acnaweb/java-ping/compare/v1.0.0...v1.1.0) (2025-06-02)
 
 
