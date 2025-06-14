@@ -2,8 +2,10 @@ name: Continuous Delivery
 
 on:
   push:
-    branches: main
-
+    branches: 
+      - "develop"
+      - "release/*"
+      
 jobs:
   delivery:
     runs-on: ubuntu-latest
